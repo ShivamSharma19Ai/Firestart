@@ -1,0 +1,451 @@
+.html{
+    width:100%
+}
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+    background-image: url(Untitled\ design\ \(2\)\ \(1\).png);
+    background-repeat: repeat-y ;
+    width:100%;
+    background-size: cover;
+}
+h1{
+    font-family: 'Gemunu Libre', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.header{
+    display: block;
+    height: 120px;
+    background-color: antiquewhite;
+    margin-top: -8px;
+    margin-left: -7px;
+    margin-right: -6px;
+}
+.left{
+   width: 30%;
+   display: inline-block;
+}
+.left img{
+    padding-top: 10px;
+    padding-left: 6px;
+    height: 80px;
+    width:80px;
+}
+.mid{
+    padding-top: -2%;
+    width:40%;
+    height:80px;
+    display: inline-block;
+}
+.right{
+    width:30%;
+    display: inline;
+}
+.navbar li a{
+    text-decoration: none;
+    display: inline-block;
+}
+.navbar {
+    display: inline-block;
+    z-index: 2;
+    width:150%;
+    margin-top: 0px;
+
+    /* position: absolute; */
+}
+.btn{
+    width:180px;
+    height:60px;
+    border-radius: 18px;
+    font-size: 20px;
+    background-color: rgb(252, 221, 181);
+}
+
+.Heading{
+    align-content: center;
+    z-index: 20;
+    font-size: 40px;
+    text-align-last: center;
+}
+.Heading img{
+    margin-top: -80px;
+    width:700px;
+    height: 700px;
+}
+
+.navbar li {
+    display:inline-block;
+    padding-right:5%;
+    font-size:25px;
+    font-family: 'Gemunu Libre', sans-serif;
+    /* position: absolute; */
+}
+
+.head1{
+   font-size:33px;
+   text-align-last: center;
+}
+.task1{
+    width: 900px!important;
+    height:340px;
+    background-image: url(featureBg1.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    
+}
+.d1t1{
+    padding-left: 10px;
+    width: 650px;
+    padding-right: 10px;
+    padding-top: 40px;
+    font-size: 35px;
+
+    
+}
+.d1t2{
+    
+    width: 650px;
+    padding-right: 10px;
+    padding-top: 40px;
+    font-size: 35px;
+    z-index:2;
+    
+}
+.task2{
+    margin-left:1290px;
+    width: 900px!important;
+    height:340px;
+    background-image: url(featureBg2.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    text-align-last: center;
+}
+.task3{
+    width: 900px!important;
+    height:340px;
+    background-image: url(featureBg5.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    text-align-last: center;
+}
+.task4{
+    margin-left:1290px;
+    width: 900px!important;
+    height:340px;
+    background-image: url(featureBg2.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    text-align-last: center;
+}
+.Arrow1 img{
+    padding-left: 660px;
+    width:700px;
+}
+
+
+
+
+.task5{
+    width: 900px!important;
+    height:340px;
+    background-image: url(featureBg5.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    
+}
+.d2t1{
+    padding-left: 10px;
+    width: 650px;
+    padding-right: 10px;
+    padding-top: 40px;
+    font-size: 35px;
+
+    
+}
+.d2t2{
+    
+    width: 650px;
+    padding-right: 10px;
+    padding-top: 40px;
+    font-size: 35px;
+    z-index:2;
+    
+}
+.task6{
+    margin-left:1290px;
+    width: 900px!important;
+    height:340px;
+    background-image: url(featureBg6.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    text-align-last: center;
+}
+.task7{
+    width: 900px!important;
+    height:340px;
+    background-image: url(featureBg7.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    text-align-last: center;
+}
+.task8{
+    margin-left:1290px;
+    width: 900px!important;
+    height:340px;
+    background-image: url(featureBg8.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    text-align-last: center;
+}
+.Arrow4 img{
+    padding-left: 660px;
+    width:700px;
+}
+.content{
+    display: inline;
+}
+.card{
+    height:900px;
+    display: inline-grid;
+    width:27%;
+    background-color: white;
+    padding-right: 60px;
+    padding-left: 60px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.card img{
+    height: 600px;
+    width:600px;
+    border-radius: 200px;
+    
+}
+.Teamcard{
+    height:900px;
+    display: inline-grid;
+    width:27%;
+    background-color: white;
+    padding-right: 60px;
+    padding-left: 60px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    margin-bottom: 150px;
+}
+
+.Teamcard img{
+    height: 300px;
+    width:300px;
+    margin-left: 120px;
+    border-radius: 200px;
+}
+.name{
+    font-family: 'Gemunu Libre', sans-serif;
+    font-size:45px;
+    font-weight: bold;
+    text-align-last: center;
+}
+.description{
+    font-family: 'Gemunu Libre', sans-serif;
+    font-size: 30px;
+}
+.Designation{
+    font-family: 'Gemunu Libre', sans-serif;
+    font-size: 50px;
+    text-align-last: center;
+}
+@media only screen and (max-width: 600px) {
+    .task1 {
+        width: 207px;
+        height: 113px;
+        background-image: url(featureBg1.png);
+        background-repeat: no-repeat;
+        background-size: contain;
+    }
+    .task4 {
+        width: 207px;
+        height: 113px;
+        background-image: url(featureBg1.png);
+        background-repeat: no-repeat;
+        background-size: contain;
+    }
+    .task2 {
+        margin-left:213px;
+        width: 207px;
+        height: 113px;
+        background-image: url(featureBg2.png);
+        background-repeat: no-repeat;
+        background-size: contain;
+    }
+    .task5 {
+        width: 207px;
+        height: 113px;
+        background-image: url(featureBg5.png);
+        background-repeat: no-repeat;
+        background-size: contain;
+    }
+    .task6 {
+        margin-left:213px;
+        width: 207px;
+        height: 113px;
+        background-image: url(featureBg2.png);
+        background-repeat: no-repeat;
+        background-size: contain;
+    }
+    .task7 {
+        width: 207px;
+        height: 113px;
+        background-image: url(featureBg7.png);
+        background-repeat: no-repeat;
+        background-size: contain;
+    }
+    .task8 {
+        margin-left:213px;
+        width: 207px;
+        height: 113px;
+        background-image: url(featureBg8.png);
+        background-repeat: no-repeat;
+        background-size: contain;
+    }
+    .left img{
+        height:40px;
+        width:40px;
+    }
+    .mid{
+        width:40px;
+    }
+    .btn {
+        width: 93px;
+        height: 49px;
+        margin-left: 154px;
+        margin-top: -20px!important;
+    }
+    .d1t1 {
+        padding-left: 10px;
+        width: 172px;
+        padding-right: 10px;
+        padding-top: 18px;
+        font-size: 9px;
+    }
+    .d1t2 {
+        padding-left: 10px;
+        width: 172px;
+        padding-right: 10px;
+        padding-top: 18px;
+        font-size: 9px;
+    }
+    .d2t1 {
+        padding-left: 10px;
+        width: 172px;
+        padding-right: 10px;
+        padding-top: 18px;
+        font-size: 9px;
+    }
+    .d2t2 {
+        padding-left: 10px;
+        width: 172px;
+        padding-right: 10px;
+        padding-top: 18px;
+        font-size: 9px;
+    }
+    .Arrow1 img {
+        padding-left: 180px;
+        width: 175px;
+    }
+    .Arrow2 img {
+        padding-left: 180px;
+        width: 175px;
+    }
+    .task3 {
+        width: 207px;
+        height: 113px;
+        background-image: url(featureBg3.png);
+        background-repeat: no-repeat;
+        background-size: contain;
+    }
+    .Arrow3 img {
+        padding-left: 180px;
+        width: 175px;
+    }
+    .task4 {
+        width: 207px;
+        height: 113px;
+        background-image: url(featureBg4.png);
+        background-repeat: no-repeat;
+        background-size: contain;
+    }
+    .Arrow5 img {
+        padding-left: 180px;
+        width: 175px;
+    }
+    .Arrow6 img {
+        padding-left: 180px;
+        width: 175px;
+    }
+    .Arrow4 img {
+        padding-left: 180px;
+        width: 175px;
+    }
+    .Heading img {
+        margin-top: -80px;
+        width: 400px;
+        height: 400px;
+    }
+    .Teamcard img {
+        height: 80px;
+        width: 80px;
+        margin-left: 160px;
+        border-radius: 200px;
+    }
+    .card img {
+        height: 80px;
+        width: 80px;
+        margin-left: 160px;
+        border-radius: 200px;
+    }
+    .Teamcard {
+        height: 400px;
+        display: inline-grid;
+        width: 84%!important;
+        background-color: white;
+        padding-right: 20px;
+        padding-left: 20px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        margin-bottom: 150px;
+    }
+    .card {
+        height: 400px;
+        display: inline-grid;
+        width: 84%!important;
+        background-color: white;
+        padding-right: 20px;
+        padding-left: 20px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        margin-bottom: 150px;
+    }
+    .name{
+        font-family: 'Gemunu Libre', sans-serif;
+        font-size:15px;
+        font-weight: bold;
+        text-align-last: center;
+    }
+    .description{
+        font-family: 'Gemunu Libre', sans-serif;
+        font-size: 10px;
+    }
+    .Designation{
+        font-family: 'Gemunu Libre', sans-serif;
+        font-size: 14px;
+        text-align-last: center;
+    }
+      }
+    
+
+    
+      https://images.unsplash.com/photo-1608555307638-992062b31329?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8b3JhbmdlJTIwYmFja2dyb3VuZHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80
+
+https://cdn.pixabay.com/photo/2017/08/30/01/05/milky-way-2695569__480.jpg
+
+https://wallpaperaccess.com/full/187161.jpg
+
+https://images.app.goo.gl/FYQ13ddXLVv94G2c9
